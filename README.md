@@ -7,8 +7,9 @@
 
 ### Junior
 
-| Tags | Challenges | Live | Code | Type |
-| ---- | ---------- | ---- | ---- | ---- |
+| Tags          | Challenges         | Live | Code | Type |
+| ------------- | ------------------ | ---- | ---- | ---- |
+| HTML, CSS, JS | Blogr landing page | link | link | free |
 
 ### Intermediate
 
